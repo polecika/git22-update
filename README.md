@@ -27,8 +27,8 @@
 #### Установка и запуск
 
 Пошаговый процесс установки и запуска
-1. ```git clone https://github.com/polecika/NeuroStartUp.git
-```
+1. ```git clone https://github.com/polecika/NeuroStartUp.git```
+
 JavaScript:
 ```
 <script src="https://localhost/neuro.sdk.min.js"></script>
