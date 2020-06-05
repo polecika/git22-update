@@ -27,9 +27,18 @@
 #### Установка и запуск
 
 Пошаговый процесс установки и запуска
-1. ```git clone https://github.com/polecika/NeuroStartUp.git```
-
-
-### Лицензия
-
-Условия лицензии ....
+1. ```git clone https://github.com/polecika/NeuroStartUp.git```JavaScript:
+```<script src="https://localhost/neuro.sdk.min.js"></script>```
+Java (Maven):
+```
+<dependency>
+  <groupId>neuro</groupId>
+  <artifactId>sdk</artifactId>
+  <version>1.0.0</version>
+</dependency>
+```
+iOS (добавьте код в ваш Podfile):
+```
+platform :ios, '8.0'
+pod "neuro-ios-sdk"
+```
